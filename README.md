@@ -20,3 +20,15 @@ This project demonstrates basic Git version control and collaboration.
 
 \- Connect the repository with GitHub
 
+## Features
+
+
+
+\- Git repository management
+
+\- Branching
+
+\- Merging
+
+\- GitHub collaboration
+
